@@ -1,0 +1,3 @@
+﻿  Projekt c++.cpp
+C:\Users\User\Desktop\Projekt\Projekt c++\Projekt c++\Projekt c++.cpp(12,20): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Projekt c++.vcxproj -> C:\Users\User\Desktop\Projekt\Projekt c++\x64\Debug\Projekt c++.exe
