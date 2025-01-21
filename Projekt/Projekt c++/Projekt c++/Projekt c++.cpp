@@ -56,7 +56,7 @@ int main(int argc, char* argv[]) {
             getline(cin, input);
             cout << "wprowadz klucz: " << endl;
             getline(cin, key_input);
-            string encrypted = encrypt(output, key_input);
+            string encrypted = encrypt(input, key_input);
             cout << encrypted << endl;
         }
     }
