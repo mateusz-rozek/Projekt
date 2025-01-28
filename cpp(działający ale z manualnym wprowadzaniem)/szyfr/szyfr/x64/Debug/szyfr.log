@@ -1,4 +1,0 @@
-﻿  szyfr.cpp
-C:\Users\User\Desktop\cpp\szyfr\szyfr\szyfr.cpp(12,20): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\User\Desktop\cpp\szyfr\szyfr\szyfr.cpp(31,20): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
-  szyfr.vcxproj -> C:\Users\User\Desktop\cpp\szyfr\x64\Debug\szyfr.exe
