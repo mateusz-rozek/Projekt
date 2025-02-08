@@ -1,0 +1,3 @@
+﻿  kkk.cpp
+C:\Users\User\Desktop\New folder (5)\kkk\kkk\kkk.cpp(11,20): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  kkk.vcxproj -> C:\Users\User\Desktop\New folder (5)\kkk\x64\Debug\kkk.exe
