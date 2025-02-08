@@ -1,3 +1,0 @@
--key - pokazuje klucz
--e - enkryptuje podany tekst
--d - dekryptuje tekst
